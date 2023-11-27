@@ -20,4 +20,5 @@ Projeyi kendi bilgisayarınıza klonlamak için aşağıdaki adımları izleyebi
 
 Eğer bu projeye katkıda bulunmak istiyorsanız, lütfen fork edip pull request gönderin. Yapıcı eleştiriler ve geliştirmeler her zaman hoş karşılanmaktadır.
 
-
+<h2>Gif Eklendi</h2>
+![](demsoftware.gif)
